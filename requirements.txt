@@ -1,0 +1,4 @@
+ott-jax
+numpy 
+matplotlib 
+scikit-learn
