@@ -2,3 +2,5 @@ ott-jax
 numpy 
 matplotlib 
 scikit-learn
+dm-haiku
+flax
