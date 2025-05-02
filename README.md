@@ -27,4 +27,3 @@ All results are obtained with fixed random seeds for full reproducibility.
 ---
 **Course**: Optimal Transport (ENSAE)  
 **Instructor**: Marco Cuturi  
-**Author**: [Your Name Here]
